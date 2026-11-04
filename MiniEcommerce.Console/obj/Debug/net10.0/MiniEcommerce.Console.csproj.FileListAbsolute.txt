@@ -1,0 +1,14 @@
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\bin\Debug\net10.0\MiniEcommerce.Console.exe
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\bin\Debug\net10.0\MiniEcommerce.Console.deps.json
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\bin\Debug\net10.0\MiniEcommerce.Console.runtimeconfig.json
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\bin\Debug\net10.0\MiniEcommerce.Console.dll
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\bin\Debug\net10.0\MiniEcommerce.Console.pdb
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\obj\Debug\net10.0\MiniEcommerce.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\obj\Debug\net10.0\MiniEcommerce.Console.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\obj\Debug\net10.0\MiniEcommerce.Console.AssemblyInfo.cs
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\obj\Debug\net10.0\MiniEcommerce.Console.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\obj\Debug\net10.0\MiniEcommerce.Console.dll
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\obj\Debug\net10.0\refint\MiniEcommerce.Console.dll
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\obj\Debug\net10.0\MiniEcommerce.Console.pdb
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\obj\Debug\net10.0\MiniEcommerce.Console.genruntimeconfig.cache
+C:\Users\PC\Downloads\MiniEcommerce\MiniEcommerce.Console\obj\Debug\net10.0\ref\MiniEcommerce.Console.dll

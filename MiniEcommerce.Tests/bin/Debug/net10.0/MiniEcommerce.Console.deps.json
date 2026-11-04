@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MiniEcommerce.Console/1.0.0": {
+        "runtime": {
+          "MiniEcommerce.Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniEcommerce.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
